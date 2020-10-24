@@ -3,14 +3,14 @@ from setuptools import find_packages
 
 
 required = [
-    "prettytable==0.7.2",
+    "prettytable",
     "pandas",
     "pybars3"
 ]
 
 setup(
     name="db.py",
-    version="0.5.3",
+    version="0.5.4b1",
     author="Greg Lamp",
     author_email="greg@yhathq.com",
     url="https://github.com/yhat/db.py",
